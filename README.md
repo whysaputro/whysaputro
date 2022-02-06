@@ -7,6 +7,7 @@ I'm currently studying a programming language like JavaScript, and Solidity.
 Now I'm enjoyed in JavaScript and I will make it the main language that I will learn in creating a project.
 
 - 🖥 I’m currently learning about cloud technology for back-end apps
+- 🖥 To fill my spare time, i learned ethereum blockchain with solidity and made some small projects for myself
 - 📫 How to reach me: hendrawahyu26@gmail.com
 
 ### Tools:
