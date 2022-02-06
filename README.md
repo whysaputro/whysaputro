@@ -29,10 +29,17 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
   
 ### Github Statistic
 <a href="https://github.com/whysaputro">
-  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whysaputro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whysaputro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/whysaputro">
-  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 
