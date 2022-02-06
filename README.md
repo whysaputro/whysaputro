@@ -1,11 +1,14 @@
 # Hi there 👋 , I'm Hendra!
 
-I've never worked in a software developer before, but I love to learn new things in programming. I'm currently studying a programming language like JavaScript, and Solidity.
+I've never worked in a software developer before, but I love to learn new things in programming.
+<br>
+I'm currently studying a programming language like JavaScript, and Solidity.
+<br>
 Now I'm enjoyed in JavaScript and I will make it the main language that I will learn in creating a project.
-
+<br>
 - 🖥 I’m currently learning about cloud technology for back-end apps
 - 📫 How to reach me: hendrawahyu26@gmail.com
-
+<br>
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
@@ -26,8 +29,8 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/whysaputro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whysaputro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/whysaputro">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whysaputro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
