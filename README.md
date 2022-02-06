@@ -28,9 +28,10 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
   <br>
   
 ### Github Statistic
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/whysaputro/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whysaputro&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysaputro&layout=compact" />
+</a>
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/hendra-wahyu-saputro-a48b68212/">LinkedIn</a>
