@@ -1,9 +1,9 @@
 # Hi there 👋 , I'm Hendra!
 
 I'm new learning in software development, and I've never worked in a software developer before, but I love to learn new things in programming, Because the technology in the future will be very advanced so I must be able to master it .
-<br>
+
 I'm currently studying a programming language like JavaScript, and Solidity.
-<br>
+
 Now I'm enjoyed in JavaScript and I will make it the main language that I will learn in creating a project.
 
 - 🖥 I’m currently learning about cloud technology for back-end apps
