@@ -31,8 +31,8 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 <a href="https://github.com/whysaputro">
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whysaputro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<a align="center" href="https://github.com/whysaputro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/whysaputro">
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 
