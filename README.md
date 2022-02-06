@@ -28,14 +28,14 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
   <br>
   
 ### Github Statistic
-<p align="left">
 <a href="https://github.com/whysaputro">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whysaputro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/whysaputro">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/hendra-wahyu-saputro-a48b68212/">LinkedIn</a>
-- dimas@dicoding.com
 - <a href="https://twitter/whysaputro">Twitter</a>
