@@ -29,8 +29,8 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
   
 ### Github Statistic
 <a href="https://github.com/whysaputro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whysaputro&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysaputro&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=whysaputro&show_icons=true&theme=radical" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysaputro&layout=compact" />
 </a>
 
 ### Reach me on
