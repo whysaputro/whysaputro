@@ -28,10 +28,12 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
   <br>
   
 ### Github Statistic
-<a href="https://github.com/whysaputro/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=whysaputro&show_icons=true&theme=radical" style="max-width: 100%;" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysaputro&layout=compact" style="max-width: 100%;" />
-</a>
+<p align="left" dir="auto">
+    <a href="https://github.com/whysaputro/github-readme-stats">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=whysaputro&show_icons=true&theme=radical" style="max-width: 100%;" />
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysaputro&layout=compact" style="max-width: 100%;" />
+    </a>
+</p>
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/hendra-wahyu-saputro-a48b68212/">LinkedIn</a>
