@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Hendra!
 
-I've never worked in a software developer before, but I love to learn new things in programming.
+I'm new learning in software development, and I've never worked in a software developer before, but I love to learn new things in programming, Because the technology in the future will be very advanced so I must be able to master it .
 <br>
 I'm currently studying a programming language like JavaScript, and Solidity.
 <br>
