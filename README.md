@@ -8,7 +8,7 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 <br>
 - 🖥 I’m currently learning about cloud technology for back-end apps
 - 📫 How to reach me: hendrawahyu26@gmail.com
-<br>
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
