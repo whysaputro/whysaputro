@@ -45,13 +45,14 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 34 mins        ██████████████████████░░░   88.13% 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 47 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 47 mins        █████████████████████████   100.0%
 
 ```
 
