@@ -11,6 +11,8 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 - 📫 How to reach me: hendrawahyu26@gmail.com
 
 ![Profile Views](https://gpvc.arturio.dev/whysaputro)
+<a href="http://twitter.com/whysaputro"><img src="https://img.shields.io/badge/-twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2" /></a>
+<a href="https://www.linkedin.com/in/hendra-wahyu-saputro-a48b68212/"><img src="https://img.shields.io/badge/-linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5" /></a>
 
 ### ⚡ Tools and Technologies:
 ![MacOS](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
