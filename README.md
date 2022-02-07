@@ -8,6 +8,7 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 
 - 🖥 I’m currently learning about cloud technology for back-end apps
 - 🖥 To fill my spare time, i learned ethereum blockchain with solidity and made some small projects for myself
+- 🎮 And also i learned lua to make some script for gta 5 roleplay fivem
 - 📫 How to reach me: hendrawahyu26@gmail.com
 
 ### Tools:
