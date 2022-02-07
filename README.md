@@ -36,7 +36,6 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
     </a>
 </p>
 
-### 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
