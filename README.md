@@ -38,4 +38,7 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 
 ### 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
