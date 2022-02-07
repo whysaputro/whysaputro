@@ -37,7 +37,7 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -56,5 +56,4 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/02/2022 12:08:08 UTC
 <!--END_SECTION:waka-->
