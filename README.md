@@ -37,8 +37,6 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
