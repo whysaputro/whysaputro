@@ -10,14 +10,15 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 - 🖥 To fill my spare time, i learned ethereum blockchain with solidity and made some small projects for myself
 - 📫 How to reach me: hendrawahyu26@gmail.com
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-JavaScript-blue?&logo=javascript" />
-    <img src="https://img.shields.io/badge/Code-Solidity-blue?&logo=solidity" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/whysaputro" />
-</p>
+
+<img src="https://gpvc.arturio.dev/whysaputro" />
+
+### Tools and Technologies:
+![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Text_Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 
   
 ### Github Statistic
