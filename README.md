@@ -38,7 +38,24 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 
 ### 📊 this week i spent my time on:
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+
+📊 **This Week I Spent My Time On** 
+
 ```text
-No Activity tracked this Week
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
 ```
+
+
+ Last Updated on 07/02/2022 12:08:08 UTC
 <!--END_SECTION:waka-->
