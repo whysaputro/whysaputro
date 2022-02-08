@@ -2,9 +2,9 @@
   
 I'm new learning in software development, and I've never worked in a software developer before, but I love to learn new things in programming, because the  technology in the future will be very advanced so I must be able to master it.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
-
 I'm currently studying a programming language like JavaScript, and Solidity.
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
 
 Now I'm enjoyed in JavaScript and I will make it the main language that I will learn in creating a project.
 
