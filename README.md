@@ -1,6 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> , I'm Hendra!
+# Hi there <img src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/wave.gif" width="30px"> , I'm Hendra!
+  
+I'm new learning in software development, and I've never worked in a software developer before, but I love to learn new things in programming, because the  technology in the future will be very advanced so I must be able to master it.
 
-I'm new learning in software development, and I've never worked in a software developer before, but I love to learn new things in programming, because the technology in the future will be very advanced so I must be able to master it .
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
 
 I'm currently studying a programming language like JavaScript, and Solidity.
 
@@ -9,6 +11,7 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 - 🧑🏻‍💻 I’m currently learning about how to make back-end apps with clean architecture and cloud technology for back-end apps
 - 🖥 To fill my spare time, i learned ethereum blockchain with solidity, web3.js and made some small projects for myself
 - 📫 How to reach me: hendrawahyu26@gmail.com
+ 
 
 ![Profile Views](https://gpvc.arturio.dev/whysaputro)
 <a href="http://twitter.com/whysaputro"><img src="https://img.shields.io/badge/-twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2" /></a>
