@@ -36,8 +36,8 @@ Now I'm enjoyed in JavaScript and I will make it the main language that I will l
 ### 📈 Github Statistic
 <p align="left" dir="auto">
     <a href="https://github.com/whysaputro">
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whysaputro&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=ayu-mirage" style="max-width: 100%;"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whysaputro&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whysaputro&layout=compact&langs_count=8&theme=ayu-mirage" style="max-width: 100%;"/>
     </a>
 </p>
 
