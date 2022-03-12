@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/wave.gif" width="30px"> , I'm Hendra!
   
-I'm new learning in software development, and I've never worked in a software developer before, but I love to learn new things in programming, because the  technology in the future will be very advanced so I must be able to master it.
+I'm new learning in software development, I'm a curious people and also I love to learn new things about programming, because programming technology is always changing newer and more powerful
 
 I'm currently studying a programming language like JavaScript, and Solidity.
 
