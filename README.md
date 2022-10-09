@@ -2,11 +2,11 @@
   
 I'm new learning in software development, I'm a curious people and also I love to learn new things about programming, because programming technology is always changing newer and more powerful
 
-I'm currently studying a programming language like JavaScript, and Solidity.
+I'm currently studying a programming language like Go, JavaScript, and Solidity.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
 
-Now I'm enjoyed in JavaScript and I will make it the main language that I will learn in creating a project.
+Now I'm enjoyed in JavaScript, Go and I will make it the main language that I will learn in creating a project.
 
 - 🧑🏻‍💻 I’m currently learning about how to make back-end apps with clean architecture and cloud technology for back-end apps
 - 🖥 To fill my spare time, i learned ethereum blockchain with solidity, web3.js and made some small projects for myself
