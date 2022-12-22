@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/wave.gif" width="30px"> , I'm Hendra!
   
-I'm new learning in software development, I'm a curious people and also I love to learn new things about programming, because programming technology is always changing newer and more powerful
+I'm new learning in software development, I'm a curious people and also I love to learn new things about programming.
 
 I'm currently studying a programming language like Go, JavaScript, and Solidity.
 
