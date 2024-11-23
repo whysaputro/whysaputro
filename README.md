@@ -2,8 +2,6 @@
   
 I'm a curious and passionate programmer who loves learning new things, especially about programming and technology. I enjoy coding in **C programming language**, and I am committed to making it my main language for development.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/whysaputro/whysaputro/master/code.gif" width="400" height="250" />
-
 ### 🚀 About Me:
 - 🧑🏻‍💻 I’m currently diving deep into **Embedded Software Development**.
 - 🌟 I enjoy exploring **low-level programming** and **hardware integration**.
